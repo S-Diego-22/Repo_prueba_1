@@ -47,8 +47,6 @@ heroes_info = {
     }
 }
 
-for iteracion in heroes_info:
-    dic_nuevo = {}
    
 
 
